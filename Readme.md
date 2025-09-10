@@ -1,4 +1,4 @@
-# 🚀 **COMPREHENSIVE INDEXING STRATEGY GUIDE**
+# Learn how indexing works, a detailed study of all type of indexing and caching for performance optimization
 
 ## 📋 **Table of Contents**
 
